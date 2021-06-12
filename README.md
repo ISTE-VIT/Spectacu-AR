@@ -1,1 +1,1 @@
-# Spectacu-AR
+# Spectacul-AR
